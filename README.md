@@ -1,4 +1,4 @@
-This app is developed to make cooking easier, faster and more convenient. The app is named “TBD” and is meant to be a one-stop shop for all your recipe needs. Everyone eats food and cooking can be a great way to share that universal experience with others. Users for TBD can range from culinary beginners to more advanced chefs. It includes recipes from all types of cuisines and difficulty levels. 
+This app is developed to make cooking easier, faster and more convenient. The app is named MOCA - My Own Cooking App and is meant to be a one-stop shop for all your recipe needs. Everyone eats food and cooking can be a great way to share that universal experience with others. Users for MOCA can range from culinary beginners to more advanced chefs. It includes recipes from all types of cuisines and difficulty levels. 
 
 List of Requirements for the app include:
 As a user I would like the ability to search for a recipe (hashtags). 
